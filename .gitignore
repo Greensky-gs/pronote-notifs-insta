@@ -1,0 +1,6 @@
+*.json
+.vscode/
+test/
+saves/
+.idea/
+*.env
